@@ -1,0 +1,105 @@
+figure{
+    position: absolute;
+    right:650px ;
+    top: 250px;
+    width: 200px;
+    font-size: 30px;
+
+}
+figcaption{
+    text-align: center;
+    margin-left: 30%;
+    color: rgb(81, 81, 104);
+}
+#brake{
+    position: absolute;
+    top: 20px;
+    /* left: 60px; */
+    font-size: 80px;
+    font-weight:1000;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Explora', cursive;
+    font-family: 'Oxygen', sans-serif;
+    color: rgb(46, 46, 78);
+}
+#addr{
+    position: absolute;
+    top: 170px;
+    /* left: 200px; */
+    font-weight: 500;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(14, 44, 120);
+}
+
+#test{
+    position: absolute;
+    top: 800px; 
+    font-size: 45px;
+    font-weight: 900;
+    color: rgb(24, 24, 82);
+    /* left:30px ; */
+    font-family: 'Tiro Telugu', serif;
+}
+#game{
+    position: absolute;
+    top: 670px;
+    /* right: 320px; */
+}
+#well{
+    position: absolute;
+    top:590px;
+    font-size: 45px ;
+    color: rgb(24, 24, 82);
+    font-family: 'Tiro Telugu', serif;
+    font-weight: 900;
+}
+#pp{
+    position: absolute;
+    top:920px;
+    font-size: 30px;
+    border: solid 1px rgb(16, 16, 58);
+    background-color: rgb(17, 17, 61);
+    color: rgb(208, 202, 242);
+    border-radius: 3px;
+}
+#if{
+    position: absolute;
+    top: 940px;
+    font-size: 45px ;
+    color: rgb(24, 24, 82);
+    font-family: 'Tiro Telugu', serif;
+    font-weight: 900;
+}
+#li{
+    
+    position: absolute;
+    top:1080px;
+    font-size: 30px;
+    border: solid 1px rgb(16, 16, 58);
+    background-color: rgb(17, 17, 61);
+    color: rgb(208, 202, 242);
+    border-radius: 3px;
+}
+.wa{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.big{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+.bb{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+.bezbez{
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    width: 200px;
+}

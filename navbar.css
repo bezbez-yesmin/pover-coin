@@ -1,0 +1,44 @@
+
+.nav {
+   list-style-type: none;
+
+   overflow: hidden;
+   background-color: #061640;
+   position: fixed;
+   top: 0;
+   left:0;
+   width: 100%;
+   z-index: 1;
+
+}
+.nav h1{
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  left: 20px;
+  color: #778fcc;
+}
+.nav ul{
+  float: right;
+}
+.el {
+   float: left;
+   padding: 2px;
+   font-size: 20px;
+   list-style: none;
+}
+ 
+.el a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+ 
+#nav a:hover:not(.active) {
+   background-color: #111;
+}
+.active{
+  background-color: #191919;
+}
+
